@@ -1,4 +1,5 @@
 # Hey there! I'm Renzo.
+<!-- ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenzoRomeo&theme=dark&show_icons=true&count_private=true) -->
 
 ### 👨‍💻 About Me
 
