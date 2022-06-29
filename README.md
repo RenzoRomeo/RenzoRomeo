@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey there! I'm Renzo.
 
-<!--
-**RenzoRomeo/RenzoRomeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 Studying Software Engineering at UNMDP, Argentina.
+- 💼 Working as a freelance web developer.
+- 🌱 Learning about computer graphics and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- Python
+- C++
+- Java
+- HTML/CSS/Javascript
+- Typescript
+- Node
+- NextJS
+- React / React Native
+
+### 📩 Contact Me
+
+All my contact information can be found in my website:
+
+https://portfolio-renzoromeo.vercel.app/
