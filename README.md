@@ -8,7 +8,7 @@
 - 🌱 Currently earning about computer graphics & game development.
 - 💪 I love taking on new challenges, and I'm always learning new stuff.
 
-### 📩 Contact Me
+### Contact Me
 
 All my contact information can be found in my website:
 
