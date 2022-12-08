@@ -5,7 +5,6 @@
 
 - 💻 Fullstack Web Developer.
 - 🎓 Studying Software Engineering at UNMDP, Argentina.
-- 🌱 Currently earning about computer graphics & game development.
 - 💪 I love taking on new challenges, and I'm always learning new stuff.
 
 ### Contact Me
