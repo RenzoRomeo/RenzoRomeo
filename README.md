@@ -3,6 +3,8 @@
 
 ### About Me
 
-- 💻 Full Stack developer.
+- 💻 Full Stack Engineer.
 - 🎓 Studying Software Engineering at UNMDP, Argentina.
 - 💪 I love taking on new challenges, and I'm always learning new stuff.
+
+You can check out my portfolio over at [renzoromeo.vercel.app](https://renzoromeo.vercel.app)
