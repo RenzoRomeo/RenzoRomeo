@@ -1,10 +1,13 @@
-# Hi, I'm Renzo!
-<!-- ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenzoRomeo&theme=dark&show_icons=true&count_private=true) -->
+# Hi, I'm Renzo!  
 
-👨‍💻 Software engineer from Argentina specialized in web development.
+<!-- ![Renzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenzoRomeo&theme=dark&show_icons=true&count_private=true) -->  
 
-💼 Since 2021, I've primarily worked as a freelancer on various projects.
+👨‍💻 Software engineer from Argentina specializing in full-stack web development.  
 
-📚 Always learning and exploring the latest tech through personal projects.
+💼 I collaborate with clients to build modern, scalable web applications tailored to their needs.  
 
-🔗  [View my portfolio](https://renzoromeo.dev)
+💡 I add value to projects not only through coding but by participating in the creative process, suggesting improvements to enhance the product.  
+
+📚 Always staying current with the latest technologies by working on personal projects and exploring new tools and frameworks.  
+
+🔗 [View my portfolio](https://renzoromeo.dev)  
